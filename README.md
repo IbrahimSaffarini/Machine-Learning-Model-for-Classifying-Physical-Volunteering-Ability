@@ -69,7 +69,7 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### Decision Tree Classifier F1 Score
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1EsaAmSxZzFbyIXYHpCjcNpzzxLRQGvMv" alt="Decision Tree Classifier F1 Score" />
+  <img src="https://drive.google.com/uc?export=view&id=11ztALhEaPyzs83-iOlq7yBQmNh1ZRhEA" alt="Decision Tree Classifier F1 Score" />
 </div>
 
 ### Decision Tree Classifier Best Max Depth
@@ -81,7 +81,7 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### K-Nearest Neighbors ROC
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=11ztALhEaPyzs83-iOlq7yBQmNh1ZRhEA" alt="KNN ROC" />
+  <img src="https://drive.google.com/uc?export=view&id=1EsaAmSxZzFbyIXYHpCjcNpzzxLRQGvMv" alt="KNN ROC" />
 </div>
 
 ### K-Nearest Neighbors Confusion Matrix
