@@ -69,7 +69,7 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### Decision Tree Classifier F1 Score
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1KAzE3SN5JzabBDCvxKNSNRc08ZokR1cf" alt="Decision Tree Classifier F1 Score" />
+  <img src="https://drive.google.com/uc?export=view&id=1EsaAmSxZzFbyIXYHpCjcNpzzxLRQGvMv" alt="Decision Tree Classifier F1 Score" />
 </div>
 
 ### Decision Tree Classifier Best Max Depth
@@ -87,7 +87,7 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### K-Nearest Neighbors Confusion Matrix
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1EsaAmSxZzFbyIXYHpCjcNpzzxLRQGvMv" alt="KNN Confusion Matrix" />
+  <img src="https://drive.google.com/uc?export=view&id=1KAzE3SN5JzabBDCvxKNSNRc08ZokR1cf" alt="KNN Confusion Matrix" />
 </div>
 
 ### Gaussian Naive Bayes Precision
