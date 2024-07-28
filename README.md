@@ -105,13 +105,13 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### Support Vector Machine Accuracy
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1mwMsz30p1nF6oomc34gjBbC7liBw9dLT" alt="SVM Accuracy" />
+  <img src="https://drive.google.com/uc?export=view&id=11ztALhEaPyzs83-iOlq7yBQmNh1ZRhEA" alt="SVM Accuracy" />
 </div>
 
 ### Support Vector Machine ROC
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=11ztALhEaPyzs83-iOlq7yBQmNh1ZRhEA" alt="SVM ROC" />
+  <img src="https://drive.google.com/uc?export=view&id=1mwMsz30p1nF6oomc34gjBbC7liBw9dLT" alt="SVM ROC" />
 </div>
 
 ## Contact for Support
