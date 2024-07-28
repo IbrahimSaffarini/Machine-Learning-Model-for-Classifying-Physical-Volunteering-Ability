@@ -69,7 +69,7 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### Decision Tree Classifier F1 Score
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=11ztALhEaPyzs83-iOlq7yBQmNh1ZRhEA" alt="Decision Tree Classifier F1 Score" />
+  <img src="https://drive.google.com/uc?export=view&id=1jxYp9et2AB29A7csVm9njEFhJnOCbLp0" alt="Decision Tree Classifier F1 Score" />
 </div>
 
 ### Decision Tree Classifier Best Max Depth
@@ -93,13 +93,13 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### Gaussian Naive Bayes Precision
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yYIJEXUUVrfe0QYZJTAzFKmO8T3hBLBI" alt="GNB Precision" />
+  <img src="https://drive.google.com/uc?export=view&id=13OJyhmGGo2o_lAjU4b5K5N38kdqFeu8-" alt="GNB Precision" />
 </div>
 
 ### Gaussian Naive Bayes Recall
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13OJyhmGGo2o_lAjU4b5K5N38kdqFeu8-" alt="GNB Recall" />
+  <img src="https://drive.google.com/uc?export=view&id=1yYIJEXUUVrfe0QYZJTAzFKmO8T3hBLBI" alt="GNB Recall" />
 </div>
 
 ### Support Vector Machine Accuracy
@@ -111,7 +111,7 @@ The evaluation of the machine learning model was conducted using a comprehensive
 ### Support Vector Machine ROC
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jxYp9et2AB29A7csVm9njEFhJnOCbLp0" alt="SVM ROC" />
+  <img src="https://drive.google.com/uc?export=view&id=11ztALhEaPyzs83-iOlq7yBQmNh1ZRhEA" alt="SVM ROC" />
 </div>
 
 ## Contact for Support
